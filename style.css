@@ -1,0 +1,143 @@
+*{
+    background-color: hsl(0, 0%, 95%);
+}
+
+.container{
+    display: flex;
+    height: 600px;
+    width: 70%;
+    margin-top:4%;
+    margin-left: 14%;
+}
+
+.first{
+    width:33.33%;
+    background-color: hsl(31, 77%, 52%);
+}
+
+.first img{
+    position: relative;
+    background-color: hsl(31, 77%, 52%);
+    left:18%;
+    top: 10%;
+}
+
+.first h1{
+    background-color: hsl(31, 77%, 52%);
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700;
+    color: #fff;
+    margin-top:80px;
+    margin-left:65px;
+    font-size: 3rem;
+}
+
+.first p{
+    background-color: hsl(31, 77%, 52%);
+    font-family: 'Lexend Deca', sans-serif;
+    padding:15%;
+    font-size:1.3rem;
+    color: #fff;
+}
+
+.first button{
+    position: relative;
+    background-color: #fff;
+    left: 18%;
+    height: 50px;
+    width: 50%;
+    font-family:'Lexend Deca', sans-serif;
+    font-size: 1rem;
+    color: hsl(31, 77%, 52%);
+    border-radius:25px;
+    border: 1px solid hsl(31, 77%, 52%);
+}
+
+.second{
+    width:33.33%;
+    background-color: hsl(184, 100%, 22%);
+}
+
+.second img{
+    position: relative;
+    background-color:  hsl(184, 100%, 22%);
+    left:18%;
+    top: 10%;
+}
+
+.second h1{
+    background-color:  hsl(184, 100%, 22%);
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700;
+    color: #fff;
+    margin-top:80px;
+    margin-left:65px;
+    font-size: 3rem;
+}
+
+.second p{
+    background-color:  hsl(184, 100%, 22%);
+    font-family: 'Lexend Deca', sans-serif;
+    padding:15%;
+    font-size:1.3rem;
+    color: #fff;
+
+}
+
+.second button{
+    position: relative;
+    background-color: #fff;
+    left: 18%;
+    height: 50px;
+    width: 50%;
+    font-family:'Lexend Deca', sans-serif;
+    font-size: 1rem;
+    color:  hsl(184, 100%, 22%);
+    border-radius:25px;
+    border: 1px solid hsl(184, 100%, 22%);
+}
+
+
+
+.third{
+    width:33.33%;
+    background-color: hsl(179, 100%, 13%);
+}
+
+.third img{
+    position: relative;
+    background-color:  hsl(179, 100%, 13%);
+    left:18%;
+    top: 10%;
+}
+
+.third h1{
+    background-color:  hsl(179, 100%, 13%);
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700;
+    color: #fff;
+    margin-top:80px;
+    margin-left:65px;
+    font-size: 3rem;
+}
+
+.third p{
+    background-color:  hsl(179, 100%, 13%);
+    font-family: 'Lexend Deca', sans-serif;
+    padding:15%;
+    font-size:1.3rem;
+    color: #fff;
+}
+
+.third button{
+    position: relative;
+    background-color: #fff;
+    left: 18%;
+    height: 50px;
+    width: 50%;
+    font-family:'Lexend Deca', sans-serif;
+    font-size: 1rem;
+    color: hsl(179, 100%, 13%);
+    border-radius:25px;
+    border: 1px solid hsl(179, 100%, 13%);
+}
